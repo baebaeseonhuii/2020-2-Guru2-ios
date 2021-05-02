@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "659E3F57-D10D-43FC-BF2F-453FAD9E79E6"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A340E426-92B8-40E7-9FAE-9498D5E04726"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Demo/ViewControllers/CoreTabs/UnderMyPage/NoticeDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "NoticeDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A340E426-92B8-40E7-9FAE-9498D5E04726 - 71df9d38676e9932"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo.NoticeDetailViewController.noticeLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Demo_2%E1%84%8B%E1%85%AF%E1%86%AF9%E1%84%8B%E1%85%B5%E1%86%AF%202%202/Demo/ViewControllers/CoreTabs/UnderMyPage/NoticeDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A340E426-92B8-40E7-9FAE-9498D5E04726 - 5bc19ad3fb59353e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo.NoticeDetailViewController.noticeLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Demo_2%E1%84%8B%E1%85%AF%E1%86%AF9%E1%84%8B%E1%85%B5%E1%86%AF%202%202/Demo/ViewControllers/CoreTabs/UnderMyPage/NoticeDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "A340E426-92B8-40E7-9FAE-9498D5E04726 - a1cb8650a82c31fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo.NoticeDetailViewController.noticeLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Demo_2%E1%84%8B%E1%85%AF%E1%86%AF9%E1%84%8B%E1%85%B5%E1%86%AF%202%202/Demo/ViewControllers/CoreTabs/UnderMyPage/NoticeDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "A340E426-92B8-40E7-9FAE-9498D5E04726 - a89bc9ead30e018f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo.NoticeDetailViewController.noticeLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Demo_2%E1%84%8B%E1%85%AF%E1%86%AF9%E1%84%8B%E1%85%B5%E1%86%AF%202%202/Demo/ViewControllers/CoreTabs/UnderMyPage/NoticeDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "A340E426-92B8-40E7-9FAE-9498D5E04726 - e7b83e4330f3dd54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo.NoticeDetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Demo.NoticeDetailViewController"
+                  moduleName = "Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Demo_2%E1%84%8B%E1%85%AF%E1%86%AF9%E1%84%8B%E1%85%B5%E1%86%AF%202%202/Demo/ViewControllers/CoreTabs/UnderMyPage/NoticeDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "A340E426-92B8-40E7-9FAE-9498D5E04726 - 3ffafdaac45a295b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo.NoticeDetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Demo.NoticeDetailViewController&gt;"
+                  moduleName = "Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Demo_2%E1%84%8B%E1%85%AF%E1%86%AF9%E1%84%8B%E1%85%B5%E1%86%AF%202%202/Demo/ViewControllers/CoreTabs/UnderMyPage/NoticeDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "221">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB550412-E929-4A4D-B26C-CB61E9AD8B29"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Demo/ViewControllers/CoreTabs/AnimalView/animalNewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "animalNewViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
